@@ -1,6 +1,5 @@
 import './App.css';
 import ClassCompo from './Components/ClassCompo';
-import Compo from './Components/FunctionCompo';
 
 function App() {
   return (
